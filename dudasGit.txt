@@ -1,2 +1,4 @@
 RESOLUCION DE DUDAS GITHUB:
 #
+#Pregunta Mynor
+¿Quien invento Git?
